@@ -1,0 +1,16 @@
+.img-fluid {
+    width: 100%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.tweet-handler {
+    color: #666;
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+}
+
+.tweet-time {
+    margin-left: 0.5rem;
+}
